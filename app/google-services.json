@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "859778679431",
+    "firebase_url": "https://dictionnaire-f81dd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dictionnaire-f81dd",
+    "storage_bucket": "dictionnaire-f81dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859778679431:android:2e9a5b37b62f6ecd7a2e22",
+        "android_client_info": {
+          "package_name": "com.example.noitu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNpQ1PBQokuC-IbSDDhfvvCyb8CHdktjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
